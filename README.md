@@ -3,6 +3,7 @@ juego-3-en-raya
 <!DOCTYPE html>
 Tobar Briones Marvin Andres<br>
 Acosta Alvarado Nexar Jesus<br>
+Quiñonez Pilozo Jefferson Eduardo<br>
 Tercer nivel "A"<BR>
 Programacion Orientada a la web<BR> 
 <CENTER><h1> TRES EN RAYA</h1></CENTER>
